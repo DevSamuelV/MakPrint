@@ -5,9 +5,8 @@ hi guys and thankyou for downloading MakPrint v0.1 Firmware
 i want to make MakPrint "THE" Go-To Easy to install Firmware for all these chinese printers and with your help i hope to make this happen
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
- please note.. if 'you' kill your printer.. then let it be known that ''YOU'' killed it .. not me :)
-
-ive never released anything before so i appologise if things are sloppy in the tutorial but ill try and get all steps in the correct order
+ please note.. if 'you' kill your printer.. then let it be known that ''YOU'' killed it .. not me.
+ 
 follow these instructions and you should end up with a working MakPrint V0.1 (marlin) firmware with 9 point autobed leveling
 
 i must have a slightly warped bed on my printer because for some reason the repetier firmware with its 3 point leveling would only work for 
@@ -20,6 +19,9 @@ gouge out scratches on both sides of the bed... i switched over to this and prin
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Changelog;
 V0.1 First Version.
+
+Up Comming Versions;
+v0.2
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,7 +36,7 @@ to install firmware
 7. when your printer reads MakPrint on the screen your done and it is installed
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 we will now set up the offset because once the printer homes to z - the nozzle wont be close enough to the bed! 
-i use cura 2.7 for this.
+i use cura 3.0 for this.
 and for normal SD Prints i use PrusaSlicer.
 
 1.so install that. go to preferences and set print window to pronterface ui
