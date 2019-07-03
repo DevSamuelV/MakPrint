@@ -1,4 +1,4 @@
-# MakPrint v0.1
+# MakPrint v1.1
 
 hi guys and thankyou for downloading MakPrint v0.1 Firmware
 
