@@ -1,5 +1,5 @@
 # MakPrint v1.1
-https://travis-ci.org/VoollStudios/MakPrint.svg?branch=master
+[![Build Status](https://travis-ci.org/VoollStudios/MakPrint.svg?branch=master)](https://travis-ci.org/VoollStudios/MakPrint)
 
 
 hi guys and thankyou for downloading MakPrint v1.1 Firmware
