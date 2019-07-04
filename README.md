@@ -1,18 +1,20 @@
 # MakPrint v1.1
+https://travis-ci.org/VoollStudios/MakPrint.svg?branch=master
 
-hi guys and thankyou for downloading MakPrint v0.1 Firmware
+
+hi guys and thankyou for downloading MakPrint v1.1 Firmware
 
 i want to make MakPrint "THE" Go-To Easy to install Firmware for all these chinese printers and with your help i hope to make this happen
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
  please note.. if 'you' kill your printer.. then let it be known that ''YOU'' killed it .. not me.
  
-follow these instructions and you should end up with a working MakPrint V0.1 (marlin) firmware with 9 point autobed leveling
+follow these instructions and you should end up with a working MakPrint V1.1 (marlin) firmware with 9 point autobed leveling
 
 i must have a slightly warped bed on my printer because for some reason the repetier firmware with its 3 point leveling would only work for 
 small parts located in the center of the bed.. i tried adjusting the firmware to allow for grid bed leveling but couldnt get it to use the
 co ordinates i had set.. marlin works for me so im happy and hopefully itll work for you too.. 
-i printed the same large part which spans the whole bed on repetier and on MakPrint V0.1 and on repetier well.. it didnt work.. i had my nozzle
+i printed the same large part which spans the whole bed on repetier and on MakPrint V1.1 and on repetier well.. it didnt work.. i had my nozzle
 gouge out scratches on both sides of the bed... i switched over to this and printed the same part with the same offset settings and it just worked
  so like i said.. im very happy ..
 
