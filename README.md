@@ -19,9 +19,10 @@ gouge out scratches on both sides of the bed... i switched over to this and prin
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Changelog;
 V0.1 First Version.
+v1.1 Updated Loading Screen.
 
 Up Comming Versions;
-v0.2
+v1.2
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,13 +31,13 @@ to install firmware
 1. unzip all files
 2. open arduino 1.6.3
 3. go to 'Tools' then 'Board' and make sure 'Anet v1.0 is selected
-4. underneath 'Board' go to 'port' and set the required com port for your printer -eg. COM4
-5. click File -Open - and navigate to the MakPrint V0.1 folder and open MakPrint_V0.1.ino
+4. underneath 'Board' go to 'port' and set the required com port for your printer -eg. COM4 etc
+5. click File -Open - and navigate to the MakPrint V1.1 folder and open MakPrint_V1.1.ino
 6.click upload and wait..
 7. when your printer reads MakPrint on the screen your done and it is installed
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 we will now set up the offset because once the printer homes to z - the nozzle wont be close enough to the bed! 
-i use cura 3.0 for this.
+i use cura 3.0 or pronterface for this.
 and for normal SD Prints i use PrusaSlicer.
 
 1.so install that. go to preferences and set print window to pronterface ui
